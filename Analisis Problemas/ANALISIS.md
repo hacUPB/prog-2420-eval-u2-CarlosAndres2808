@@ -1,27 +1,27 @@
 # Analisis problema #1
 ## Variables: 
 ### 1- Información del usuario:
--Título: ("Sr" o "Sra").
+    -Título: ("Sr" o "Sra").
 
--Nombre: ("Nombre_usuario").
+    -Nombre: ("Nombre_usuario").
 
--Apellido: ("Apellido_usuario").
+    -Apellido: ("Apellido_usuario").
 
 ### 2- Selección del vuelo:
--Origen: ("Medellín","Bogotá","Cartagena").
+    -Origen: ("Medellín","Bogotá","Cartagena").
 
--Destino: ("Medellín","Bogotá","Cartagena").
+    -Destino: ("Medellín","Bogotá","Cartagena").
 
--Día_semana y mes: (entre 1 y 30).
+    -Día_semana y mes: (entre 1 y 30).
 
--Distancia: Distancia entre origen y destino (Km).
+    -Distancia: Distancia entre origen y destino (Km).
 
--Precio: Depende del dia y distancia.
+    -Precio: Depende del dia y distancia.
 
 ### 3- Selección del asiento:
--Preferencia_asiento: ("pasillo","ventana","sin preferencia").
+    -Preferencia_asiento: ("pasillo","ventana","sin preferencia").
 
--Número_asiento: Número y tipo de asiento.
+    -Número_asiento: Número y tipo de asiento.
 
 ## Constantes: 
 ### 1- Distancia_ciudades: 
