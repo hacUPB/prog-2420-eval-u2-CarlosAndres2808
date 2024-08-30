@@ -21,33 +21,33 @@
 ### 3- Selección del asiento:
 -Preferencia_asiento: ("pasillo","ventana","sin preferencia").
 
--Número_asiento: Nümero y tipo de asiento.
+-Número_asiento: Número y tipo de asiento.
 
 ## Constantes: 
 ### 1- Distancia_ciudades: 
--Medellín_Bogotá = 240Km
+    -Medellín_Bogotá = 240Km
 
--Medellín_Cartagena = 461Km
+    -Medellín_Cartagena = 461Km
 
--Bogatá_Cartagena = 657Km
+    -Bogatá_Cartagena = 657Km
 
 ### 2- Precios: 
 Menos de 400Km:
 
--Lunes_Jueves = 79.900 $
+    -Lunes_Jueves = 79.900 $
 
--Viernes_Domingo = 119.900 $
+    -Viernes_Domingo = 119.900 $
 
 400Km o más:
 
--Lunes_Jueves = 156.900 $
+    -Lunes_Jueves = 156.900 $
  
- -Viernes_Domingo = 213.000 $
+    -Viernes_Domingo = 213.000 $
 
  ### 3- Asignación de asiento: 
- -Pasillo = "Asiento C"
+    -Pasillo = "Asiento C"
 
- -Ventana = "Asiento A"
+    -Ventana = "Asiento A"
 
- -Sin preferencia = "Asiento B"
+    -Sin preferencia = "Asiento B"
 
