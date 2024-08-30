@@ -33,11 +33,13 @@
 
 ### 2- Precios: 
 Menos de 400Km:
+
 -Lunes_Jueves = 79.900 $
 
 -Viernes_Domingo = 119.900 $
 
 400Km o más:
+
 -Lunes_Jueves = 156.900 $
  
  -Viernes_Domingo = 213.000 $
@@ -48,4 +50,4 @@ Menos de 400Km:
  -Ventana = "Asiento A"
 
  -Sin preferencia = "Asiento B"
- 
+
