@@ -62,5 +62,6 @@ Inicio
     Mostrar fecha de vuelo (día de la semana y día del mes)
     Mostrar precio del boleto
     Mostrar asiento asignado
+Fin si
 
 Fin
