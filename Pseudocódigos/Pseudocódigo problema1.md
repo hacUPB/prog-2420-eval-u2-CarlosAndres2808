@@ -9,7 +9,7 @@ Inicio
         saludo = "titulo nombre apellido, ¡Bienvenido a FastFast Airlines!"
         Mostrar saludo
 
-    Escribir: Selección_vuelo
+    Escribir: Vuelo_seleccionado
     Mostrar opciones de ciudades (Medellín, Bogotá, Cartagena)
     Pedir al usuario que seleccione la ciudad de origen
     Pedir al usuario que seleccione la ciudad de destino
@@ -38,7 +38,7 @@ Inicio
         Sino
             precio = 213000
 
-    Escribir asignación_asiento
+    Escribir asiento_asignado
     Pedir al usuario que indique su preferencia de asiento (pasillo, ventana, sin preferencia)
     
     Definir el tipo de asiento basado en la preferencia
