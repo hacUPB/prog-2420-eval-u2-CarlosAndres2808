@@ -1,6 +1,6 @@
 Inicio
 
-    Escribir: Información_usuario
+    Ingresar: Información_usuario
     Pedir al usuario que ingrese su título (Sr. o Sra.)
     Pedir al usuario que ingrese su nombre
     Pedir al usuario que ingrese su apellido
@@ -9,7 +9,7 @@ Inicio
         saludo = "titulo nombre apellido, ¡Bienvenido a FastFast Airlines!"
         Mostrar saludo
 
-    Escribir: Vuelo_seleccionado
+    Ingresar: Vuelo_seleccionado
     Mostrar opciones de ciudades (Medellín, Bogotá, Cartagena)
     Pedir al usuario que seleccione la ciudad de origen
     Pedir al usuario que seleccione la ciudad de destino
@@ -50,12 +50,12 @@ Inicio
         tipo_asiento = "B"
     
     Definir aleatoriamente un número de asiento entre 1 y 29
-    numero_asiento = GenerarNúmeroAleatorio(1, 29)
+    numero_asiento = Generar_número_aleatotio(1, 29)
     
     Definir el asiento asignado combinando el número y el tipo de asiento
     asiento_asignado = numero_asiento + tipo_asiento
 
-    Escribir: Salida
+    Ingresar: Salida
     Mostrar nombre completo del usuario
     Mostrar origen
     Mostrar destino
