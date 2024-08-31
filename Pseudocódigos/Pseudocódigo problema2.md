@@ -1,4 +1,5 @@
-inicio
+Inicio
+
     Pedir altitud_inicial
     Pedir coeficiente_arrastre
     Pedir altitud_minima_seguridad
@@ -22,5 +23,5 @@ inicio
         mostrar "El satélite ha reingresado en la atmósfera terrestre después de", numero_orbitas, "órbitas."
     sino
         mostrar "El satélite se ha estabilizado en una órbita a una altitud de", altitud_actual, "kilómetros después de", numero_orbitas, "órbitas."
-fin
+Fin
 
