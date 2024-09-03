@@ -1,3 +1,4 @@
+```
 Inicio
 
     Pedir altitud_inicial
@@ -25,4 +26,4 @@ Inicio
         mostrar "El satélite se ha estabilizado en una órbita a una altitud de", altitud_actual, "kilómetros después de", numero_orbitas, "órbitas."
 
 Fin
-
+```
