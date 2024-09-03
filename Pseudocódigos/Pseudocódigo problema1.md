@@ -1,3 +1,4 @@
+```
 Inicio
 
     Escribir: Información_usuario
@@ -65,3 +66,4 @@ Inicio
 Fin si
 
 Fin
+```
