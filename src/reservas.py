@@ -1,4 +1,5 @@
 
+
 # Información del usuario
 
 import random
@@ -54,4 +55,4 @@ def asignar_asiento(preferencia):
 
 print(f"Tu vuelo de {origen} a {destino} del {día_semana} {día_mes} de abril está reservado.")
 print(f"Precio del boleto: ${calcular_precio(origen, destino, día_semana)}")
-print(f"Tu asiento es: {asignar_asiento(preferencia)} ")
+print(f"Tu asiento es: {asignar_asiento(preferencia)} ") 
